@@ -4,6 +4,9 @@ If you think that these can be improved in anyway, please do suggest.
 
 > The purpose of these roadmaps is to give an idea to juniors or new comers to create services on my.gov.uz 
 
+## Introduction
+
+![Roadmap](./images/my.gov.uz.png)
 
 ## 🚦 Wrap Up
 
