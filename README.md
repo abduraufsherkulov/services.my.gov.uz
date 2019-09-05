@@ -1,4 +1,4 @@
-![Create services on my.gov.uz Road Map - 2019](https://i.imgur.com/s5cCV9q.png)
+![Create services on my.gov.uz Road Map - 2019]
 
 
 Below you find a set of charts demonstrating the steps that you can take to create services.
