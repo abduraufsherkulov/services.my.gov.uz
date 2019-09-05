@@ -1,6 +1,3 @@
-![Create services on my.gov.uz Road Map - 2019]
-
-
 Below you find a set of charts demonstrating the steps that you can take to create services.
 
 If you think that these can be improved in anyway, please do suggest.
